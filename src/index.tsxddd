@@ -1,0 +1,60 @@
+
+
+
+
+// function abc(x:number):number{
+// 	return x * x
+// }
+
+// abc(1);
+
+
+// import 'core-js/stable'
+// import 'regenerator-runtime/runtime'
+// import * as React from 'react'
+// import * as ReactDOM from 'react-dom'
+// import { Provider } from 'react-redux'
+// import { createStore } from 'redux'
+// import { composeWithDevTools } from 'redux-devtools-extension'
+// import reducer from './reducer/index'
+
+// // import * as TestInterface from './app';
+// // import * as Greeter from './Greeter';
+
+// Greeter.init()
+// import * as TestTs from './test/testclass';
+// TestTs.init();
+// function Test(){
+// 	return (<div>张彤川</div>)
+// }
+// const store = createStore(reducer, composeWithDevTools());
+// ReactDOM.render(
+// 	<Provider store={ store }>
+// 		<Test />
+// 	</Provider>
+// 	,document.querySelector('#root'));
+
+// // let addd: TestInterface.Testinterface;
+
+// // TestInterface.main()
+// // addd = {
+// // 	age: 111
+// // }
+// // class abd{
+// // 	constructor(){
+// // 		console.log('a')
+// // 	}
+// // }
+// // let a = new abd()
+// // console.log('zhang111w')
+// // interface test{
+// // 	name:string;
+// // 	age: number;
+// // }
+
+//  // if (module.hot) {
+//  //   module.hot.accept('./app.ts', function() {
+//  //     console.log('Accepting the updated printMe module!');
+//  //     printMe();
+//  //   })
+//  // }
